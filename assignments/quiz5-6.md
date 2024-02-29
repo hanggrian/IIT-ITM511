@@ -1,6 +1,6 @@
 <style type="text/css">ol { list-style-type: upper-alpha; }</style>
 
-# Quiz 5-6: System Modeling & Architectural Design
+# Quiz 5-6: System modeling and architectural design
 
 ## Problem 1
 

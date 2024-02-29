@@ -1,6 +1,6 @@
 <style type="text/css">ol { list-style-type: upper-alpha; }</style>
 
-# Quiz 3-4: Agile and Requirements Engineering
+# Quiz 3-4: Agile and requirements engineering
 
 ## Problem 1
 
@@ -16,10 +16,10 @@
 
 > Match the principle or practice with their correct descriptions.
 >
-> 1. Continuous integration
-> 2. On-site customer
-> 3. Collective ownership
-> 4. Incremental planning
+> - Continuous integration
+> - On-site customer
+> - Collective ownership
+> - Incremental planning
 
 - **C.** The pairs of developers work on all areas of the system, so that no
   islands of expertise develop and all the developers take responsibility for
@@ -39,10 +39,10 @@
 
 > Match the principle or practice with their correct descriptions.
 >
-> 1. Simple Design
-> 2. Small Releases
-> 3. Refactoring
-> 4. Pair Programming
+> - Simple Design
+> - Small Releases
+> - Refactoring
+> - Pair Programming
 
 - **D.** Developers work in pairs, checking each other's work and providing the
   support to always do a good job.
@@ -88,10 +88,10 @@
 
 > Match the following process activities with their definitions.
 >
-> 1. Requirements discovery and understanding
-> 2. Requirements documentation
-> 3. Requirements prioritization and negotiation
-> 4. Requirements classification and organization
+> - Requirements discovery and understanding
+> - Requirements documentation
+> - Requirements prioritization and negotiation
+> - Requirements classification and organization
 
 - **A.** This is the process of interacting with stakeholders of the system to
   discover their requirements. Domain requirements from stakeholders and

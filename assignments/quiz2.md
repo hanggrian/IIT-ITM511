@@ -1,6 +1,6 @@
 <style type="text/css">ol { list-style-type: upper-alpha; }</style>
 
-# Quiz 2: Software Processes
+# Quiz 2: Software processes
 
 ## Problem 1
 

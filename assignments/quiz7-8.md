@@ -1,4 +1,6 @@
-# Quiz 7-8: Design, Implementation & Software Testing
+<style type="text/css">ol { list-style-type: upper-alpha; }</style>
+
+# Quiz 7-8: Design, implementation and software testing
 
 ## Problem 1
 
