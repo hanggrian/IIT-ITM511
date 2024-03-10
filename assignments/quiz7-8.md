@@ -82,7 +82,7 @@
 
 ## Problem 9
 
-> Open-Source Development means that the code that makes up the software is not
+> Open Source Development means that the code that makes up the software is not
   avaliable for everyone to see.
 >
 > 1. True

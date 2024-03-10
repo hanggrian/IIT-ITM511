@@ -86,7 +86,7 @@
 
 ## Problem 9
 
-> Commonly used Architectural patterns include model-view-controller, layered
+> Commonly used architectural patterns include model-view-controller, layered
   architecture, repository, client-server, and pipe and filter.
 >
 > 1. True

@@ -38,7 +38,7 @@
 
 ## Problem 4
 
-> What does V&V standfor when it comes to Software Validation?
+> What does V&V stand for when it comes to Software Validation?
 >
 > - Validate and Verify
 > - Validate and Vacate
