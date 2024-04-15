@@ -1,0 +1,36 @@
+{
+  "request": {
+    "check_in_date": "2024-07-14",
+    "check_out_date": "2024-07-17",
+    "room_count": 1,
+    "hotel": {
+      "name": "Hard Rock Hotel",
+      "address": "159 West 48th St.",
+      "city": "New York",
+      "state": "NY"
+    },
+    "payment": {
+      "amount": 360,
+      "method": "paypal",
+      "account ": "johndoe"
+    }
+  },
+  "response": {
+    "booking_id": "k12vzd80v2",
+    "check_in_date": "2024-07-14",
+    "check_out_date": "2024-07-17",
+    "room_count": 1,
+    "hotel": {
+      "name": "Hard Rock Hotel",
+      "address": "159 West 48th St.",
+      "city": "New York",
+      "state": "NY",
+      "services": {
+        "wifi": true,
+        "breakfast": true,
+        "room_service": true,
+        "nightclub": false
+      }
+    }
+  }
+}

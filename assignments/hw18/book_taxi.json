@@ -1,0 +1,37 @@
+{
+  "request": {
+    "time": "2024-07-14T13:00:00",
+    "passenger_count": 2,
+    "pickup_location": {
+      "lat": 9.96233,
+      "lng": 49.80404
+    },
+    "dropoff_location": {
+      "lat": 6.11499,
+      "lng": 50.67891
+    },
+    "payment": {
+      "amount": 32,
+      "method": "cash"
+    }
+  },
+  "response": {
+    "booking_id": "9dvb1324bn",
+    "time": "2024-07-14T13:00:00",
+    "passenger_count": 2,
+    "pickup_location": {
+      "address": "959 N Western Ave",
+      "city": "Chicago",
+      "state": "IL",
+      "lat": 9.96233,
+      "lng": 49.80404
+    },
+    "dropoff_location": {
+      "address": "O'Hare International Airport",
+      "city": "Chicago",
+      "state": "IL",
+      "lat": 6.11499,
+      "lng": 50.67891
+    }
+  }
+}

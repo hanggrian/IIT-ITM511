@@ -1,0 +1,43 @@
+{
+  "request": {
+    "departure_date": "2024-07-14",
+    "return_date": "2024-07-17",
+    "origin": "Chicago",
+    "destination": "New York",
+    "passengers": [
+      {
+        "name": "John Doe",
+        "passport_no": "E00007730"
+      }
+    ],
+    "payment": {
+      "amount": 80,
+      "method": "VISA",
+      "account": "0987654321"
+    }
+  },
+  "response": {
+    "booking_id": "xa12gw3va0",
+    "flights": [
+      {
+        "no": "BA212",
+        "when": "2024-07-14",
+        "from": "ORD",
+        "to": "JFK"
+      },
+      {
+        "no": "AB121",
+        "when": "2024-07-21",
+        "from": "JFK",
+        "to": "ORD"
+      }
+    ],
+    "passengers": [
+      {
+        "name": "John Doe",
+        "passport_no": "E00007730",
+        "seat": "12C"
+      }
+    ]
+  }
+}

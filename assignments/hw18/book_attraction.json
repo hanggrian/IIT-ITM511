@@ -1,0 +1,50 @@
+{
+  "browsing": {
+    "request": {
+      "date": "2024-07-15",
+      "city": "New York",
+      "state": "NY",
+      "budget": 30
+    },
+    "response": {
+      "date": "2024-07-15",
+      "city": "New York",
+      "state": "NY",
+      "budget": 30,
+      "attractions": [
+        {
+          "id": "nyc-museum2",
+          "name": "Museum of Modern Art",
+          "fee": 0
+        },
+        {
+          "id": "nyc-statue1",
+          "name": "Statue of Liberty",
+          "fee": 25
+        }
+      ]
+    }
+  },
+  "booking": {
+    "request": {
+      "date": "2024-07-15",
+      "guest_count": 1,
+      "attraction": {
+        "id": "nyc-museum2",
+        "name": "Museum of Modern Art",
+        "open_time": "7:30:00",
+        "close_time": "21:00:00"
+      }
+    },
+    "response": {
+      "date": "2024-07-15",
+      "guest_count": 1,
+      "attraction": {
+        "id": "nyc-museum2",
+        "name": "Museum of Modern Art",
+        "open_time": "7:30:00",
+        "close_time": "21:00:00"
+      }
+    }
+  }
+}

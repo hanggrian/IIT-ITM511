@@ -1,0 +1,43 @@
+FORMAT: 1A
+
+# Simple Interest Calculator API
+
+Welcome to the `https://simple-interest-calculator.com/api/v1`, a free and
+straightforward way to assess return on investment.
+
+## Calculate using a fixed value [POST /value]
+
++ Request (application/json)
+  + Attributes
+    - principal: 100 (number, required) - The base amount.
+    - rate: 5 (number, required) - The interest rate.
+    - time: 2 (number, required) - The time period in years.
++ Response 200 (application/json)
+  + Attributes
+    - principal: 100 (number) - The principal amount.
+    - rate: 5 (number) - The interest rate.
+    - time: 2 (number) - The time period in years.
+    - interest: 10 (number) - The calculated simple interest.
++ Response 400 (application/json)
+  + Attributes
+    - message: "Bad Request" (string) – When input is negative.
+
+## Calculate using yearly range [POST /range]
+
++ Request (application/json)
+  + Attributes
+    - principal: 100 (number, required) - The base amount.
+    - rate: 5 (number, required) - The interest rate.
+    - start: 2015 (year, required) – The beginning year.
+    - end: 2015 (year, required) – The final year.
++ Response 200 (application/json)
+  + Attributes
+    - principal: 100 (number) - The principal amount
+    - rate: 5 (number) - The interest rate
+    - start: 2015 (year, required) – The beginning year.
+    - end: 2015 (year, required) – The final year.
+    - interest: 10 (number) - The calculated simple interest
++ Response 400 (application/json)
+  + Attributes
+    - message: "Bad Request" (string) – When input is negative or starting year
+      exceeds final year.

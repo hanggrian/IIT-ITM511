@@ -1,0 +1,50 @@
+<WSDL>
+  <types>
+    <xS:schema
+      targetNameSpace="http://.../weathns"
+      xmIns:weathns="http://.../weathns">
+
+      <xs:element name="PlaceAndDate" type="pdrec"/>
+      <xs:element name="MaxMinTemp" type="mmtrec"/>
+      <xs:element name="InDataFault" type="errmess"/>
+
+      <xs:complexType name="pdrec">
+        <xs:sequence>
+          <xs:element name="town" type="xs:string"/>
+          <xs:element name="country" type="xs:string"/>
+          <xs:element name="day" type="xs:date"/>
+        </xs:sequence>
+      </xs:complexType>
+
+      <xs:complexType name="mmtrec">
+        <xs:sequence>
+          <xs:element name="maxTemp" type="tempType"/>
+          <xs:element name="minTemp" type="tempType"/>
+        </xs:sequence>
+      </xs:complexType>
+
+      <xs:simpleType name="tempType">
+        <xs:restriction base="xs:int">
+          <xs:enumeration value="0"/>
+          <xs:enumeration value="1"/>
+        </xs:restriction>
+      </xs:simpleType>
+
+      <xs:simpleType name="errmess">
+        <xs:restriction base="xs:int">
+          <xs:minInclusive value="100"/>
+          <xs:maxInclusive value="999"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xS:schema>
+  </types>
+  <interface name="weatherInfo">
+    <operation name="getMaxMinTemps" pattern="wsd1ns:in-out">
+      <input messageLabel="In" element="weathns:PlaceAndDate"/>
+      <output messageLabel="Out" element="weathns:MaxMinTemp"/>
+      <outfault
+        messageLabel="Out"
+        element="weathns:InDataFault"/>
+    </operation>
+  </interface>
+</wsdl>

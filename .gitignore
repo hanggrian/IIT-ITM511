@@ -1,0 +1,5 @@
+# Microsoft Word
+~$*.docx*
+
+# draw.io
+*.drawio.bkp
