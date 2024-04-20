@@ -1,5 +1,9 @@
-# Microsoft Word
+# macOS
+**/.DS_Store
+
+# Office
 ~$*.docx*
 
 # draw.io
 *.drawio.bkp
+*.drawio.dtmp

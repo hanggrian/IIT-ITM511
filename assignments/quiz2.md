@@ -8,7 +8,7 @@
   or SDLC model) is a simplified representation of a software process.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -61,8 +61,8 @@
 > What is the final state of process prototyping?
 >
 > 1. Developing
-> 2. Evaluating
-> 3. Defining Functionality
-> 4. Establishing Objectives
+> 1. Evaluating
+> 1. Defining Functionality
+> 1. Establishing Objectives
 
 **B.** Evaluating

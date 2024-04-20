@@ -8,7 +8,7 @@
   incrementally.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -60,7 +60,7 @@
 > Test automation is unwanted for test-first development
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -70,7 +70,7 @@
   functions offered by the system.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -80,7 +80,7 @@
   offered by the system.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 

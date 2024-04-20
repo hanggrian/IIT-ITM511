@@ -7,7 +7,7 @@
 > Unit testing is the process of testing all software components at once.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -17,7 +17,7 @@
   process at which an executable software system is developed.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -27,7 +27,7 @@
   program.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -37,7 +37,7 @@
   written to make sure it works as intended.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -47,7 +47,7 @@
   defects before it is put into use.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -57,7 +57,7 @@
   demonstrate that there are no remaining faults.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -67,7 +67,7 @@
   its solution.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -76,7 +76,7 @@
 > Unit testing should be automated whenever possible.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -86,7 +86,7 @@
   avaliable for everyone to see.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -95,6 +95,6 @@
 > The Linux Operating system is open source.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True

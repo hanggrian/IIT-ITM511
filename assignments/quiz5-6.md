@@ -8,7 +8,7 @@
   each model presenting a different view or perspective of that system.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -17,9 +17,9 @@
 > Which of the following options are NOT part of model-driven architecture?
 >
 > 1. A computation independent model (CIM)
-> 2. A platform-independent model (PIM)
-> 3. Platform-specific models (PSM)
-> 4. Platform-Engineering models (PEM)
+> 1. A platform-independent model (PIM)
+> 1. Platform-specific models (PSM)
+> 1. Platform-Engineering models (PEM)
 
 **D.** Platform-Engineering models (PEM)
 
@@ -28,7 +28,7 @@
 > Structural models may be either static or dynamic.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -39,7 +39,7 @@
   and point out its advantages and disadvantages.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -49,7 +49,7 @@
   representation of that language.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -59,7 +59,7 @@
   environment.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -70,7 +70,7 @@
   their association.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -80,7 +80,7 @@
   embedded systems where there is **a lot of user interaction.**
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -90,7 +90,7 @@
   architecture, repository, client-server, and pipe and filter.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -100,6 +100,6 @@
   non-functional requirements of the system.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True

@@ -8,7 +8,7 @@
   each model presenting a different view or perspective of that system.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -31,7 +31,7 @@
   offered by the system.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -41,7 +41,7 @@
   defects before it is put into use.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -50,7 +50,7 @@
 > The Linux Operating system is open source.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -60,7 +60,7 @@
   written to make sure it works as intended.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -94,7 +94,7 @@
   and point out its advantages and disadvantages.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -115,7 +115,7 @@
   demonstrate that there are no remaining faults.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -146,7 +146,7 @@
   should be difficult to maintain so competitors don't want to copy the product.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -156,7 +156,7 @@
   environment.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -166,7 +166,7 @@
   program.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -184,7 +184,7 @@
   non-functional requirements of the system.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -194,7 +194,7 @@
   software systems.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -203,7 +203,7 @@
 > Test automation is unwanted for test-first development
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -212,7 +212,7 @@
 > Structural models may be either static or dynamic.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -221,7 +221,7 @@
 > Unit testing should be automated whenever possible.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -239,7 +239,7 @@
   process at which an executable software system is developed.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -249,7 +249,7 @@
   incrementally.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -260,7 +260,7 @@
   maintenance.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -270,7 +270,7 @@
   architecture, repository, client-server, and pipe and filter.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -279,7 +279,7 @@
 > Unit testing is the process of testing all software components at once.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -289,7 +289,7 @@
   engineering because different types of software require different approaches.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -299,7 +299,7 @@
   embedded systems where there is **a lot of user interaction.**
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -309,7 +309,7 @@
   or SDLC model) is a simplified representation of a software process.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -319,7 +319,7 @@
   functions offered by the system.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -338,7 +338,7 @@
   avaliable for everyone to see.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -361,7 +361,7 @@
   and take on tasks that are outside of your competence.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -370,9 +370,9 @@
 > What is the final state of process prototyping?
 >
 > 1. Developing
-> 2. Evaluating
-> 3. Defining Functionality
-> 4. Establishing Objectives
+> 1. Evaluating
+> 1. Defining Functionality
+> 1. Establishing Objectives
 
 **B.** Evaluating
 
@@ -420,7 +420,7 @@
   representation of that language.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -430,7 +430,7 @@
   its solution.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -439,9 +439,9 @@
 > Which of the following options are NOT part of model-driven architecture?
 >
 > 1. A computation independent model (CIM)
-> 2. A platform-independent model (PIM)
-> 3. Platform-specific models (PSM)
-> 4. Platform-Engineering models (PEM)
+> 1. A platform-independent model (PIM)
+> 1. Platform-specific models (PSM)
+> 1. Platform-Engineering models (PEM)
 
 **D.** Platform-Engineering models (PEM)
 
@@ -452,7 +452,7 @@
   their association.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 

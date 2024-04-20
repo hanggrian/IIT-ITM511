@@ -9,7 +9,7 @@
   maintenance.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -19,7 +19,7 @@
   engineering because different types of software require different approaches.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -29,7 +29,7 @@
   software systems.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -53,7 +53,7 @@
   and take on tasks that are outside of your competence.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -82,7 +82,7 @@
   should be difficult to maintain so competitors don't want to copy the product.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 

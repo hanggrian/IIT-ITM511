@@ -8,7 +8,7 @@
   clients.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -18,7 +18,7 @@
   increasing demand.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -28,9 +28,9 @@
   designing and implementing distributed software systems.
 >
 > 1. Platform compatibility
-> 2. Security
-> 3. Scalibility
-> 4. Performance
+> 1. Security
+> 1. Scalibility
+> 1. Performance
 
 **A.** Platform compatibility
 
@@ -39,7 +39,7 @@
 > SaaS stands for "Software as a Science".
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -49,7 +49,7 @@
   software systems that are deployed on a single computer.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **B.** False
 
@@ -59,9 +59,9 @@
   access to it over the Internet.
 >
 > 1. Software as a Service
-> 2. Software as a interface
-> 3. Data as a service
-> 4. Software as a product
+> 1. Software as a interface
+> 1. Data as a service
+> 1. Software as a product
 
 **A.** Software as a Service
 
@@ -71,7 +71,7 @@
   architecture.
 >
 > 1. True
-> 2. False
+> 1. False
 
 **A.** True
 
@@ -82,8 +82,8 @@
   management, application, and database services.
 >
 > 1. large
-> 2. server
-> 3. shared
-> 4. client
+> 1. server
+> 1. shared
+> 1. client
 
 **D.** client
