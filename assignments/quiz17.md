@@ -7,8 +7,8 @@
 > Software as a service involves providing locally installed applications to
   clients.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -17,8 +17,8 @@
 > A benefit of distrubuted systems are that they can be scaled to cope with
   increasing demand.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -27,10 +27,10 @@
 > Which of the following is NOT a key issue that has to be considered when
   designing and implementing distributed software systems.
 >
-> 1. Platform compatibility
-> 1. Security
-> 1. Scalibility
-> 1. Performance
+> 1.  Platform compatibility
+> 1.  Security
+> 1.  Scalibility
+> 1.  Performance
 
 **A.** Platform compatibility
 
@@ -38,8 +38,8 @@
 
 > SaaS stands for "Software as a Science".
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -48,8 +48,8 @@
 > Distributed systems engineering refers to the design and implementation of
   software systems that are deployed on a single computer.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -58,10 +58,10 @@
 > This idea of ______ involves hosting the software remotely and providing
   access to it over the Internet.
 >
-> 1. Software as a Service
-> 1. Software as a interface
-> 1. Data as a service
-> 1. Software as a product
+> 1.  Software as a Service
+> 1.  Software as a interface
+> 1.  Data as a service
+> 1.  Software as a product
 
 **A.** Software as a Service
 
@@ -70,8 +70,8 @@
 > The client-server computing model is an example of a distributed system
   architecture.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -81,9 +81,9 @@
   structured into layers, with the presentation layer implemented on a data
   management, application, and database services.
 >
-> 1. large
-> 1. server
-> 1. shared
-> 1. client
+> 1.  large
+> 1.  server
+> 1.  shared
+> 1.  client
 
 **D.** client

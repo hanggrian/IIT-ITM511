@@ -23,8 +23,8 @@
   penetration by an attacker will occur, and you have to include redundant and
   diverse features to cope with these adverse events.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -34,8 +34,8 @@
   because operators and system managers may sometimes have to break rules and
   "work around" the defined process.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -44,10 +44,10 @@
 > ______ involves simulating possible system failures and cyberattacks to test
   whether the resilience plans that have been drawn up work as expected.
 >
-> 1. Asset classification
-> 1. Resilience Testing
-> 1. Threat recognition
-> 1. Operational and management processes
+> 1.  Asset classification
+> 1.  Resilience Testing
+> 1.  Threat recognition
+> 1.  Operational and management processes
 
 **B.** Resilience Testing
 
@@ -56,8 +56,8 @@
 > Critical services are defined as services that are essential if a system is to
   ensure its primary purpose.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -66,8 +66,8 @@
 > Cybersecurity is concerned with all of an organization's IT assets from
   networks through to application systems.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -76,8 +76,8 @@
 > Resilience engineering does not focus on avoiding failure but rather on
   accepting the reality that failures will occur.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -86,8 +86,8 @@
 > Fundamentally, resilience engineering is a technical rather than a
   sociotechnical activity.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -95,8 +95,8 @@
 
 > Human error is rarely the cause of accidents in safety critical systems.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -106,9 +106,9 @@
   be subjected to cyberattacks by malicious insiders and outisders and that some
   of these attacks will be successful.
 >
-> 1. offline
-> 1. defensive
-> 1. resilience planning should not be based on the assumptions
-> 1. networked
+> 1.  offline
+> 1.  defensive
+> 1.  resilience planning should not be based on the assumptions
+> 1.  networked
 
 **D.** networked

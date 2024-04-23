@@ -7,8 +7,8 @@
 > A software process model (sometimes called a Software Development Life Cycle
   or SDLC model) is a simplified representation of a software process.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -60,9 +60,9 @@
 
 > What is the final state of process prototyping?
 >
-> 1. Developing
-> 1. Evaluating
-> 1. Defining Functionality
-> 1. Establishing Objectives
+> 1.  Developing
+> 1.  Evaluating
+> 1.  Defining Functionality
+> 1.  Establishing Objectives
 
 **B.** Evaluating

@@ -7,8 +7,8 @@
 > System modeling is the process of developing abstract models of a system, with
   each model presenting a different view or perspective of that system.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -30,8 +30,8 @@
 > Non-functional requirements are constraints on the services or functions
   offered by the system.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -40,8 +40,8 @@
 > Program testing shows that a program works as intended and is used to discover
   defects before it is put into use.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -49,8 +49,8 @@
 
 > The Linux Operating system is open source.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -59,8 +59,8 @@
 > In test-driven development, tests are written after the code itself has been
   written to make sure it works as intended.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -93,8 +93,8 @@
   architectures. They describe the architecture, explain when it may be used,
   and point out its advantages and disadvantages.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -114,8 +114,8 @@
 > Testing can only show the presence of errors in a program. It cannot
   demonstrate that there are no remaining faults.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -145,8 +145,8 @@
 > Good software should over-deliver the functionality outlined by the user, and
   should be difficult to maintain so competitors don't want to copy the product.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -155,8 +155,8 @@
 > An activity diagram shows the interactions between a system and its
   environment.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -165,8 +165,8 @@
 > An IDE is the executable after you finish writing and then compiling your
   program.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -183,8 +183,8 @@
 > The choice of architectural style and structure should depend on the
   non-functional requirements of the system.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -193,8 +193,8 @@
 > The fundamental ideas of software engineering are applicable to all types of
   software systems.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -202,8 +202,8 @@
 
 > Test automation is unwanted for test-first development
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -211,8 +211,8 @@
 
 > Structural models may be either static or dynamic.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -220,8 +220,8 @@
 
 > Unit testing should be automated whenever possible.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -238,8 +238,8 @@
 > Software design and implementation is the stage in the software engineering
   process at which an executable software system is developed.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -248,8 +248,8 @@
 > All agile methods suggest that software should be developed and delivered
   incrementally.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -259,8 +259,8 @@
   aspects of software production from initial conception to operation and
   maintenance.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -269,8 +269,8 @@
 > Commonly used architectural patterns include model-view-controller, layered
   architecture, repository, client-server, and pipe and filter.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -278,8 +278,8 @@
 
 > Unit testing is the process of testing all software components at once.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -288,8 +288,8 @@
 > There are no universal notations, methods, or techniques for software
   engineering because different types of software require different approaches.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -298,8 +298,8 @@
 > Pipe and filter systems are best suited to batch processing systems and
   embedded systems where there is **a lot of user interaction.**
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -308,8 +308,8 @@
 > A software process model (sometimes called a Software Development Life Cycle
   or SDLC model) is a simplified representation of a software process.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -318,8 +318,8 @@
 > The functional requirements for a system are constraints on the services or
   functions offered by the system.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -337,8 +337,8 @@
 > Open Source Development means that the code that makes up the software is not
   avaliable for everyone to see.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -360,8 +360,8 @@
   and Professional Practices, it is ethical to over-represent your competence
   and take on tasks that are outside of your competence.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -369,10 +369,10 @@
 
 > What is the final state of process prototyping?
 >
-> 1. Developing
-> 1. Evaluating
-> 1. Defining Functionality
-> 1. Establishing Objectives
+> 1.  Developing
+> 1.  Evaluating
+> 1.  Defining Functionality
+> 1.  Establishing Objectives
 
 **B.** Evaluating
 
@@ -419,8 +419,8 @@
 > Language processing systems translate one language into an alternative
   representation of that language.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -429,8 +429,8 @@
 > A design pattern is a way of reusing abstract knowledge about a problem and
   its solution.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -438,10 +438,10 @@
 
 > Which of the following options are NOT part of model-driven architecture?
 >
-> 1. A computation independent model (CIM)
-> 1. A platform-independent model (PIM)
-> 1. Platform-specific models (PSM)
-> 1. Platform-Engineering models (PEM)
+> 1.  A computation independent model (CIM)
+> 1.  A platform-independent model (PIM)
+> 1.  Platform-specific models (PSM)
+> 1.  Platform-Engineering models (PEM)
 
 **D.** Platform-Engineering models (PEM)
 
@@ -451,8 +451,8 @@
   diagrams are used to define the static structure of classes in a system and
   their association.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 

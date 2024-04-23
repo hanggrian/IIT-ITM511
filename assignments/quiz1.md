@@ -8,8 +8,8 @@
   aspects of software production from initial conception to operation and
   maintenance.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -18,8 +18,8 @@
 > There are no universal notations, methods, or techniques for software
   engineering because different types of software require different approaches.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -28,8 +28,8 @@
 > The fundamental ideas of software engineering are applicable to all types of
   software systems.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -52,8 +52,8 @@
   and Professional Practices, it is ethical to over-represent your competence
   and take on tasks that are outside of your competence.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -81,8 +81,8 @@
 > Good software should over-deliver the functionality outlined by the user, and
   should be difficult to maintain so competitors don't want to copy the product.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 

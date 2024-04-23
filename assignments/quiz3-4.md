@@ -7,8 +7,8 @@
 > All agile methods suggest that software should be developed and delivered
   incrementally.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -59,8 +59,8 @@
 
 > Test automation is unwanted for test-first development
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -69,8 +69,8 @@
 > The functional requirements for a system are constraints on the services or
   functions offered by the system.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -79,8 +79,8 @@
 > Non-functional requirements are constraints on the services or functions
   offered by the system.
 >
-> 1. True
-> 1. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
